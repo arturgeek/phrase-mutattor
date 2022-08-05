@@ -1,0 +1,15 @@
+{
+  "name": "intertectest",
+  "version": "1.0.1",
+  "description": "Test for Interect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start_2": "node index2.0.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
